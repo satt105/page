@@ -211,6 +211,11 @@ section>div {
     border-bottom-left-radius: 5px;
 }
 
+.c20 {
+    width: 20%;
+    background-color: #e62e21;
+}
+
 .c50 {
     width: 50%;
     background-color: #ec821e;
